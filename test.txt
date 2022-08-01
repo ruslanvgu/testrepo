@@ -4,6 +4,7 @@ int main()
 {
   std::cout << hello world! <<std::endl;
   int x =5;
+  int y = x*x;
   return 0;  
 }
 
