@@ -8,10 +8,9 @@ int main()
 
 	//stack1
 //stack2
-<<<<<<< Updated upstream
+
 //stack 3
-=======
->>>>>>> Stashed changes
+
   return 0;  
 }
 
