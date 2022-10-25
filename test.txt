@@ -3,13 +3,6 @@
 int main()
 {
   std::cout << hello world! <<std::endl;
-  int x =5;
-  int y = x*x;
-
-	//stack1
-//stack2
-
-//stack 3
 
   return 0;  
 }
