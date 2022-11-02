@@ -3,7 +3,7 @@
 int main()
 {
   std::cout << hello world! <<std::endl;
-  new test
+  new test22222222222
   return 0;  
 }
 
